@@ -1,0 +1,12 @@
+Daily schedule:
+1 hour - typing 
+1 hour - Hindi
+1 hour - Workout
+3 hour - problem solving
+1 hour - revison of previous day 
+
+learn python with D jango 
+21 days schedule 
+
+day 1 -variables,strings,integers, consants
+day 2 - lists
