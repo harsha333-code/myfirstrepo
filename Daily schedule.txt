@@ -9,4 +9,4 @@ learn python with D jango
 21 days schedule 
 
 day 1 -variables,strings,integers, consants
-day 2 - lists
+day 2 - lists, tupples, arrays
