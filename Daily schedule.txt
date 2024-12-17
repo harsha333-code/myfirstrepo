@@ -10,3 +10,4 @@ learn python with D jango
 
 day 1 -variables,strings,integers, consants
 day 2 - lists, tupples, arrays
+day 3 - here 
